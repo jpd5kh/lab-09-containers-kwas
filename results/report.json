@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.13.149",
+      "books": 1
+    },
+    {
+      "host": "4ae121caef50",
+      "books": 101
+    },
+    {
+      "host": "6d9714b93123",
+      "books": 3
+    },
+    {
+      "host": "79e77c106545",
+      "books": 1
+    },
+    {
+      "host": "Alexs-MacBook-Air.local",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-29-109",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-alexkwas",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-29-109",
+          "at": "2026-10-22 18:47:34.031000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 07:27:20.417000",
+          "job": "22797836_101"
+        },
+        {
+          "host": "4ae121caef50",
+          "at": "2026-11-19 03:34:19.859000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "Cervantes, a humble soldier, experiences a profound transformation when he decides to pursue literature despite his impoverished state. He begins writing \"Don Quixote,\" a comedic and philosophical novel that ridicules outdated chivalric ideals and explores themes of disillusionment and redemption.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 07:27:20.417000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-alexkwas",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-29-109",
+          "at": "2026-10-22 18:47:33.677000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 07:27:20.092000",
+          "job": "22797836_100"
+        },
+        {
+          "host": "4ae121caef50",
+          "at": "2026-11-19 03:34:19.147000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "The narrator recounts a tale of two cities, London and Paris, during the French Revolution. It follows the journey of Mr. Jarvis Lorry, a banker, to Paris to meet with a relative named Monsieur Manette, who has been imprisoned for 18 years.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 07:27:20.092000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-alexkwas",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-29-109",
+          "at": "2026-10-22 18:47:33.438000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 07:27:20.279000",
+          "job": "22797836_99"
+        },
+        {
+          "host": "4ae121caef50",
+          "at": "2026-11-19 03:34:18.849000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he meets his estranged mother and learns about her financial troubles. He decides to stay with his mother, despite her declining health. Meanwhile, his father's estate is facing financial difficulties due to lack of business opportunities.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 07:27:20.279000"
+      }
+    }
+  ]
+}
